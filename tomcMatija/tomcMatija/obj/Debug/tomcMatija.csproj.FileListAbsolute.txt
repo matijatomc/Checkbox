@@ -1,0 +1,10 @@
+C:\Users\3.D\source\repos\tomcMatija\tomcMatija\bin\Debug\tomcMatija.exe.config
+C:\Users\3.D\source\repos\tomcMatija\tomcMatija\bin\Debug\tomcMatija.exe
+C:\Users\3.D\source\repos\tomcMatija\tomcMatija\bin\Debug\tomcMatija.pdb
+C:\Users\3.D\source\repos\tomcMatija\tomcMatija\obj\Debug\tomcMatija.csprojAssemblyReference.cache
+C:\Users\3.D\source\repos\tomcMatija\tomcMatija\obj\Debug\tomcMatija.Form1.resources
+C:\Users\3.D\source\repos\tomcMatija\tomcMatija\obj\Debug\tomcMatija.Properties.Resources.resources
+C:\Users\3.D\source\repos\tomcMatija\tomcMatija\obj\Debug\tomcMatija.csproj.GenerateResource.cache
+C:\Users\3.D\source\repos\tomcMatija\tomcMatija\obj\Debug\tomcMatija.csproj.CoreCompileInputs.cache
+C:\Users\3.D\source\repos\tomcMatija\tomcMatija\obj\Debug\tomcMatija.exe
+C:\Users\3.D\source\repos\tomcMatija\tomcMatija\obj\Debug\tomcMatija.pdb
